@@ -8,5 +8,5 @@ This project involves two individuals, the leader and participants [may be great
 - I used the keccak256() method with abi.encodePacked and certain parameters like difficulty, timestamp, and participant count to randomly select the winner.
 - Keep in mind that none of the participants have the authority to check the balance; only the Leader will have that ability.
 - Deployed on Rinkeby Testnet  [View on block explorer](https://rinkeby.etherscan.io/tx/0x892563fe52ee760da4ae38140522d9ec8bfbeddba3f0df51fd9a98b27771cc4e)
-- Tested with 3 participants named monka1, monka2, monka3(Winner)
+- Tested with 3 participants named monka1, monka2, monka3(Winner) haha!
 [click here to stalk monka3](https://rinkeby.etherscan.io/tx/0xc964bfc0da77e83fa3cd4b47a01cb5d0815fc2ce8166f3457b2f3d0ff3730cb8)
