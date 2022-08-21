@@ -1,1 +1,3 @@
-# lotterykek
+# lotterykek 
+
+Deployed on Rinkeby Testnet 
